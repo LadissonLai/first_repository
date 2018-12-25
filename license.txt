@@ -1,1 +1,2 @@
 Here is the Git license.
+changes in license.
