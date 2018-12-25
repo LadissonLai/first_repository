@@ -1,2 +1,1 @@
-Here is the Git license.
-changes in license.
+Here is the Git license in Bob.
