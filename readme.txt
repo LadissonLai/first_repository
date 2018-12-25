@@ -5,3 +5,4 @@ My stupid boss still like SVN.
 Creating a branch is easy and simple.
 add dev and merged by --no-ff
 This is Bob branch.
+using a stash.
