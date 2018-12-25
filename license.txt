@@ -1,1 +1,1 @@
-Here is the Git license.
+Here is the Git license in master.
