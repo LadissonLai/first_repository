@@ -1,2 +1,2 @@
-Here is the Git license.
+Here is the Git license in dev.
 changes in license.
